@@ -21,3 +21,5 @@ adding number 2
 preparing switching...
 
 the real child
+
+hello
